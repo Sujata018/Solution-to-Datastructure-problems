@@ -4,7 +4,6 @@
    <tr>
       <th>source</th>
       <th>Description</th>
-      <th>To run</th>
    </tr>
    <tr>
       <td>isBipartite.py</td>
